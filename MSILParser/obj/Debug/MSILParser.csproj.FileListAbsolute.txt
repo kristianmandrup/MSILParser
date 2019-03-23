@@ -1,0 +1,7 @@
+/Users/kristianmandrup/repos/csharp-projects/MSILParserProject/MSILParser/bin/Debug/ildasm.exe
+/Users/kristianmandrup/repos/csharp-projects/MSILParserProject/MSILParser/bin/Debug/MSILParser.exe.manifest
+/Users/kristianmandrup/repos/csharp-projects/MSILParserProject/MSILParser/obj/Debug/MSILParser.csprojAssemblyReference.cache
+/Users/kristianmandrup/repos/csharp-projects/MSILParserProject/MSILParser/obj/Debug/MSILParser.Form1.resources
+/Users/kristianmandrup/repos/csharp-projects/MSILParserProject/MSILParser/obj/Debug/MSILParser.Properties.Resources.resources
+/Users/kristianmandrup/repos/csharp-projects/MSILParserProject/MSILParser/obj/Debug/MSILParser.csproj.GenerateResource.cache
+/Users/kristianmandrup/repos/csharp-projects/MSILParserProject/MSILParser/obj/Debug/MSILParser.csproj.CoreCompileInputs.cache

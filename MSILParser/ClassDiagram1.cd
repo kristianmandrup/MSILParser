@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MSILParser.MsilParser">
+    <Position X="4.25" Y="0.5" Width="2.25" />
+    <Members>
+      <Method Name="GetVar" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="MSILParser.MsilParser.ExpressionInvoker&lt;TReturn&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MSILParser.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gQEAAAEIABAgMMAQUAAICAAAABBABAAABABAAIAAAAQ=</HashCode>
+      <FileName>MSILParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSILParser.RuleParser">
+    <Position X="1.75" Y="0.5" Width="2" />
+    <Members>
+      <Method Name="getValue" Hidden="true" />
+      <Method Name="handleArithmeticOperators1" Hidden="true" />
+      <Method Name="handleArithmeticOperators2" Hidden="true" />
+      <Method Name="handleDot" Hidden="true" />
+      <Method Name="handleLogicalOperators" Hidden="true" />
+      <Method Name="handleRelationalOperators" Hidden="true" />
+      <Method Name="handleUnaryOperators" Hidden="true" />
+      <Method Name="Initialize" Hidden="true" />
+      <Method Name="isAlpha" Hidden="true" />
+      <Method Name="isDigit" Hidden="true" />
+      <Method Name="isFunction" Hidden="true" />
+      <Method Name="isWhitespace" Hidden="true" />
+      <Method Name="nextToken" Hidden="true" />
+      <Method Name="readDataToken" Hidden="true" />
+      <Method Name="readFunctionArgs" Hidden="true" />
+      <Method Name="readNumberToken" Hidden="true" />
+      <Method Name="readStringToken" Hidden="true" />
+      <Method Name="RuleParser" Hidden="true" />
+      <Method Name="Run" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQGAAQEJAVAgMeBC1BErGIyRABDQBBgARwjCCEAOAIY=</HashCode>
+      <FileName>RuleParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
